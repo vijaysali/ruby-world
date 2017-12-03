@@ -13,6 +13,6 @@
   - Flexible.
   - Support of blocks.
   - Metaprogramming.
-
+  - Message passing.
 * Bundler- package manager for ruby.
 * Rails framework.
