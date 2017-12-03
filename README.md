@@ -14,5 +14,6 @@
   - Support of blocks.
   - Metaprogramming.
   - Message passing.
+  - REPL support: irb
 * Bundler- package manager for ruby.
 * Rails framework.
