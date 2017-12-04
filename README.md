@@ -17,6 +17,7 @@
   - Support of blocks.
   - Protocols.
   - REPL support: irb.
+  - Test frameworks.
   - Metaprogramming.
   - Message passing.
 
