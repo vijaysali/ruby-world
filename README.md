@@ -12,12 +12,13 @@
 
 ### Features
   - Simple english statements.
-  - Prototype.
   - Supports OOP and functional concepts.
   - Flexible.
   - Support of blocks.
+  - Protocols.
+  - REPL support: irb.
   - Metaprogramming.
   - Message passing.
-  - REPL support: irb.
+
 * Bundler- package manager for ruby.
 * Rails framework.
